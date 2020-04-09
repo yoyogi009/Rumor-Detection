@@ -1,0 +1,2 @@
+# Rumor-Detection
+This is a machine learning project to detect rumors across the social media platforms like whatsapp , twitter and facebook . This program will work in the same manner as any spam detector in a software works. Using the rumor detection dataset we first train our machine learning program  and then we test it to see its accuracy . The more we feed the data the more its will it will get accurate .    
